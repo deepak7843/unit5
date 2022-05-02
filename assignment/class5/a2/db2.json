@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "learn react"
+    },
+    {
+      "id": 2,
+      "title": "learn type"
+    },
+    {
+      "title": "pen",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "copy",
+      "status": false,
+      "id": 4
+    }
+  ]
+}
